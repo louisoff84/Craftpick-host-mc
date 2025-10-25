@@ -20,7 +20,7 @@ $instance['craftpick'] = array_merge($instance['craftpick'], array(
     "whitelist" => array(),
     "whitelistActive" => false,
     "status" => array(
-        "nameServer" => "craftpickMC",
+        "nameServer" => "craftpick",
         "ip" => "craftpick.fr",
         "port" => 25565
     )
